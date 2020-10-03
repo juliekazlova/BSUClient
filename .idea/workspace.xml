@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7ce3ba0-41e7-4d1a-a761-32d1d1e46774" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$APPLICATION_HOME_DIR$/plugins/maven/lib/maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1iJvX93Mp4VsXZXjqbkLMZJjAGe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Facets" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" singleton="false" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.juliairina.Main" />
+      <module name="Client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.juliairina.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="com.juliairina.Main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7ce3ba0-41e7-4d1a-a761-32d1d1e46774" name="Default Changelist" comment="" />
+      <created>1601638545331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601638545331</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="77" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1601640632625">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="77" y="74" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1601640632625" />
+    <state x="77" y="89" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1440.808@0.23.1440.808" timestamp="1601638559292" />
+    <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser" timestamp="1601641932764">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="163" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1601641932764" />
+    <state x="350" y="209" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1601639234958">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="350" y="209" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1440.900@0.0.1440.900" timestamp="1601639234958" />
+    <state x="571" y="89" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog" timestamp="1601639038283">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="571" y="89" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.0.1440.900@0.0.1440.900" timestamp="1601639038283" />
+    <state x="571" y="103" key="#com.intellij.ide.util.frameworkSupport.AddFrameworkSupportDialog/0.23.1440.808@0.23.1440.808" timestamp="1601638973718" />
+    <state width="1143" height="245" key="GridCell.Tab.0.bottom" timestamp="1601711976771">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601641984992" />
+    <state width="1143" height="245" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1601711976771" />
+    <state width="1143" height="245" key="GridCell.Tab.0.center" timestamp="1601711976770">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1601641984991" />
+    <state width="1143" height="245" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1601711976770" />
+    <state width="1143" height="245" key="GridCell.Tab.0.left" timestamp="1601711976769">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1601641984990" />
+    <state width="1143" height="245" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1601711976769" />
+    <state width="1143" height="245" key="GridCell.Tab.0.right" timestamp="1601711976770">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state width="1398" height="245" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1601641984991" />
+    <state width="1143" height="245" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1601711976770" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1601641766669">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1601641766669" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.23.1440.808@0.23.1440.808" timestamp="1601641750790" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1601641766667">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1601641766667" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.23.1440.808@0.23.1440.808" timestamp="1601641750789" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1601641766667">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1601641766667" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.23.1440.808@0.23.1440.808" timestamp="1601641750788" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1601641766668">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1601641766668" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.23.1440.808@0.23.1440.808" timestamp="1601641750790" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1601639151298">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1601639151298" />
+    <state x="418" y="205" width="604" height="490" key="find.popup" timestamp="1601641421896">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="418" y="205" width="604" height="490" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1601641421896" />
+    <state x="542" y="351" key="git4idea.remote.GitConfigureRemotesDialog" timestamp="1601712260854">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="542" y="351" key="git4idea.remote.GitConfigureRemotesDialog/0.0.1440.900@0.0.1440.900" timestamp="1601712260854" />
+    <state x="176" y="29" key="new project wizard" timestamp="1601638570283">
+      <screen x="0" y="23" width="1440" height="808" />
+    </state>
+    <state x="176" y="29" key="new project wizard/0.23.1440.808@0.23.1440.808" timestamp="1601638570283" />
+  </component>
+</project>
